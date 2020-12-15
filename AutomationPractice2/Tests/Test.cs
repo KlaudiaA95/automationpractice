@@ -10,9 +10,9 @@ namespace AutomationPractice2.Tests
     class Test
     {
         [TestMethod]
-        public void Test1()
+        public void Test()
         {
 
-        }
+        }]
     }
 }
